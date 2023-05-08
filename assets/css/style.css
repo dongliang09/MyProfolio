@@ -1150,6 +1150,16 @@ a:hover {
   margin-top: 4rem;
 }
 
+.contact-div {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-center {
+  text-align: center;
+}
+
 @media (min-width: 767px) {
   .contact-mf .box-pl2 {
     margin-top: 3rem;
